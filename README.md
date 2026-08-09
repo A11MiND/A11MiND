@@ -1,4 +1,4 @@
-# Hi, I'm Chan Wai-Cheung (陈伟漳) 👋
+# Hi, I'm Richard 👋
 
 AI application developer focused on **RAG, LLM/agent integration, and multimodal interaction** for education and healthcare.
 
