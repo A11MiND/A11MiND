@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A11MiND/A11MiND/main/assets/blackhole.svg" width="100%" alt="Animated black hole banner" />
+</p>
+
 # Hi, I'm A11MiND 👋
 
 AI application developer focused on **RAG, LLM/agent integration, and multimodal interaction** for education and healthcare.
