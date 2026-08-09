@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/A11MiND/A11MiND/main/assets/pixel-banner.png" width="100%" alt="Pixel-art RPG banner" />
+  <img src="https://raw.githubusercontent.com/A11MiND/A11MiND/main/assets/pixel-banner.gif" width="100%" alt="Animated pixel-art RPG banner" />
 </p>
 
 # Hi, I'm A11MiND 👋
